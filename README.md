@@ -1,2 +1,2 @@
 # hello-world
-one may never die
+one may never gone
